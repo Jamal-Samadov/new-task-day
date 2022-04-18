@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\task3\TassKK3\TassKK3\obj\Debug\netcoreapp3.1\TassKK3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\task3\TassKK3\TassKK3\obj\Debug\netcoreapp3.1\TassKK3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\task3\TassKK3\TassKK3\obj\Debug\netcoreapp3.1\TassKK3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\task3\TassKK3\TassKK3\obj\Debug\netcoreapp3.1\TassKK3.AssemblyInfo.cs
+C:\Users\User\Desktop\task3\TassKK3\TassKK3\obj\Debug\netcoreapp3.1\TassKK3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\task3\TassKK3\TassKK3\bin\Debug\netcoreapp3.1\TassKK3.exe
+C:\Users\User\Desktop\task3\TassKK3\TassKK3\bin\Debug\netcoreapp3.1\TassKK3.deps.json
+C:\Users\User\Desktop\task3\TassKK3\TassKK3\bin\Debug\netcoreapp3.1\TassKK3.runtimeconfig.json
+C:\Users\User\Desktop\task3\TassKK3\TassKK3\bin\Debug\netcoreapp3.1\TassKK3.runtimeconfig.dev.json
+C:\Users\User\Desktop\task3\TassKK3\TassKK3\bin\Debug\netcoreapp3.1\TassKK3.dll
+C:\Users\User\Desktop\task3\TassKK3\TassKK3\bin\Debug\netcoreapp3.1\TassKK3.pdb
+C:\Users\User\Desktop\task3\TassKK3\TassKK3\obj\Debug\netcoreapp3.1\TassKK3.dll
+C:\Users\User\Desktop\task3\TassKK3\TassKK3\obj\Debug\netcoreapp3.1\TassKK3.pdb
+C:\Users\User\Desktop\task3\TassKK3\TassKK3\obj\Debug\netcoreapp3.1\TassKK3.genruntimeconfig.cache
